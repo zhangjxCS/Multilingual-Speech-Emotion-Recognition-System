@@ -1,4 +1,4 @@
-# Capstone-Proejct 
+# Multilingual SER Systems
 ENGI E4800 Columbia University Capstone Project Folder
 
 team captain: 
