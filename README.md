@@ -6,7 +6,7 @@ team captain:
 
 team members:
 * Luwei Zhang lz2815
-* ...
+* Ruoxi Liu rl3155
 
 mentor: Akshat Gupta from JP Morgan<br>
 instructor: Sining Chen <br>
