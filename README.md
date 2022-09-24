@@ -8,9 +8,13 @@ team members:
 * Luwei Zhang lz2815
 * ...
 
-mentor: Akshat Gupta <br>
+mentor: Akshat Gupta from JP Morgan<br>
 instructor: Sining Chen <br>
 CA: Aayush Verma<br>
+
+Speech emotion recognition (SER) is an important capability for systems interacting with humans. The aim of building such systems is to gauge emotions of human subjects/users. The decision on emotion type in human speech is dependent on two factors - the content of the speech or what is said by the user, and paralinguistic content or how something is spoken by the user. We need to incorporate both these factors in deciding the emotion of input speech.
+
+Robust SER systems exist for English. In this project, we want to work with multiple languages and focus on exploring methods to create SER systems for low-resourced languages. One of our aims would be to understand how emotions are expressed in different languages like English, German, French, Italian etc. We will be using large pre-trained speech recognition systems like wav2vec, Hubert etc and study how well they are suited for the task of speech emotion recognition in different languages. In the end, we want to create multilingual speech emotion recognition systems that work for multiple systems.
 
 
 
