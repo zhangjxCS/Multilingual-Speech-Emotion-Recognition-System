@@ -1,0 +1,8 @@
+class,accuracy
+angry,0.72
+disgusting,0.18181818181818182
+fearful,0.8125
+happy,0.2857142857142857
+neutral,0.6153846153846154
+sad,0.4
+surprise,0.8461538461538461
