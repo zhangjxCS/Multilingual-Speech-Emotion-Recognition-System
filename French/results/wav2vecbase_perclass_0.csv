@@ -1,0 +1,8 @@
+class,accuracy
+Joy,0.5862068965517241
+Fear,0.5
+Sadness,0.7058823529411765
+Anger,0.7857142857142857
+Disgust,0.7333333333333333
+Neutral,0.75
+Surprise,0.6
